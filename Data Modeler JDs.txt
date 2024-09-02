@@ -1,0 +1,829 @@
+﻿Job Description 01
+
+
+12 - 15 years of experience with at least 5+ years of experience in data modeling.
+Experience in data modeling for complex, large-scale & global data driven implementations.
+Strong experience in data modeling activities supporting time series, data warehousing & data transformations.
+Ability to create and maintain conceptual, logical, and physical data models.
+Ability to comprehend complex data consumption requirements and define semantic models to support them.
+Ability to understand business & associated data landscape and identify data domains aligned to business capabilities.
+Ability to collaborate with cross-functional teams to gather and analyse data requirements.
+Exposure to / understanding of modern data management approaches e.g. data mesh, data on cloud technologies e.g. Snowflake, RDS & data processing platforms e.g. Starburst.
+Proficiency in any data modeling tool preferably Erwin.
+Ability to distil complexity, strong analytical and problem-solving skills.
+Ability to get into the details of query performance issues and address them through efficient database design & data modeling.
+Excellent communication and documentation skills.
+Knowledge of industry best practices for data modeling and database design.
+Experience in Finance domain would be an added advantage.
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 02
+
+
+Good Understanding to Datamodel Concepts
+Good Hand on the Data 
+Hands on any DAta Modelling Tools, preferrably SAP Power Designer
+Maintain logical and physical data models along with accurate metadata.
+Solution architecture, design, and development of models for small projects.
+Create conceptual data model to identify key business entities and visualize their relationships.
+Provide documentation of solution design, as well as end user training and change management communications at times.
+Support teams through all project phases including knowledge transition phase.
+Present and communicate modeling results and recommendations to internal stakeholders.
+Ensure and enforce a governance process to oversee implementation activities and ensure alignment to the defined architecture.
+Collaborate internationally with various stakeholders.
+Engage with clients to clarify inbound research requests.
+Extract key insights for an executive audience, conveying them in clear, concise written and visual summaries, employing data-driven charts, maps and graphics where appropriate.
+Perform data profiling/analysis activities that helps to establish, modify and maintain data model.
+Communicate physical database designs and dba and explains features that may affect the physical data model.
+Regularly engage and consult stakeholders on solving business problems through data, guiding the conversation rather than following orders.
+Analyze data-related system integration challenges and propose appropriate solutions with strategic approach.
+
+
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 03
+
+
+Minimum of 8 + years of experience in data modelling, Data Warehousing, Database designs
+Strong understanding of relational database concepts, SQL, and data modelling tools
+Experience with data management and data analysis in SQL and NoSQL databases.
+Knowledge of data governance principles and practices.
+Experience with Agile methodologies and business intelligence tools is highly desirable.
+Excellent communication and collaboration skills.
+Strong analytical and problem-solving abilities.
+Ability to work independently and manage multiple tasks and projects.
+
+
+
+
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 04
+
+
+Bachelor of Science degree and/or Master’s in software engineering / Computer Science or an equivalent discipline
+5+ yrs. of hands-on experience using various development methodologies to deliver robust PaaS and DaaS based analytics solutions on Azure data platform
+Proven expertise of ERWIN, Azure data platform, CI/CD
+Strong knowledge of using Snowflake, Hadoop, MPP Data platform, Azure Data Factory, Azure HDI, and Open-source technologies
+Superior documentation and communications skills
+Proven ability to lead & coach diverse teams of data modelers located globally
+
+
+Technology Requirement
+
+
+ERWIN/Other Data Modeling Tools: develop, enrich, and maintain logical & physical data models
+Cloud Database experience in Snowflake and/or HIVE
+DevOps: GitHub, Azure DevOps
+ETL/ELT Framework design and implementation
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 05
+
+
+
+
+1. 5+ years of proven working experience as a data modeler
+2. Dimensional Data Modeling experience 
+3.Strong analytical skills with the ability to collect, organise, analyse, and disseminate significant amounts of information with attention to detail and accuracy 
+4. Experience in Data Modeling using ERWin 
+5.Experience in working Common Data Model
+Good-to-Have 
+1. Experience working in a Microsoft Azure Data Platform environment 
+2. Good Communication Skills & presentation skills 
+3.Experience in data modeling in RDBMS 
+4. Experience in NoSQL DB 
+5.Experience in Data Governance
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 06
+
+
+Extensive practical experience in Information Technology and software development projects of with at least 8+ years of experience in designing Operational data store & data warehouse.
+Extensive experience in any of Data Modelling tools – Erwin/ SAP power designer.
+Strong understanding of ETL and data warehouse concepts processes and best practices.
+Proficient in Data Modelling including conceptual, logical and physical data modelling for both OLTP and OLAP.
+Ability to write complex SQL for data transformations and data profiling in source and target systems
+Basic understanding of SQL vs NoSQL databases.
+Possess a combination of solid business knowledge and technical expertise with strong communication skills. Demonstrate excellent analytical and logical thinking.
+Good verbal & written communication skills and Ability to work independently as well as in a team environment providing structure in ambiguous situation.
+
+
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 07
+
+
+Design and implement effective data models using data modeling techniques and methodologies.
+Collaborate with key business representatives, data owners, end users, application designers, and data architects to model current and new data.
+Ensure data models are optimized for performance, scalability, and maintainability.
+Develop and maintain data dictionaries, data flow diagrams, and other documentation related to data modeling.
+Stay up-to-date with the latest trends and best practices in data modeling and database design. Professional & Technical Skills:
+Must To Have Skills:Expertise in data modeling techniques and methodologies.
+Must To Have Skills:Strong experience in database design and development.
+Good To Have Skills:Experience with data modeling tools such as ERwin or ER/Studio.
+Good To Have Skills:Knowledge of SQL and other database technologies.
+Strong understanding of data warehousing concepts and methodologies. Additional Information:
+The candidate should have a minimum of 5 years of experience in data modeling techniques and methodologies.
+The ideal candidate will possess a strong educational background in computer science, information systems, or a related field, along with a proven track record of delivering effective data models.
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 08
+
+
+Hands-on experience in designing, developing, and maintaining conceptual, logical, and physical data models that accurately represent the organization's data requirements.
+In-depth knowledge of at least one designing/modelling tool such as ERwin, ER Studio, Power Designer, etc
+Should be able to Collaborate with stakeholders, data analysts, and business users to understand and gather data requirements.
+Experienced in collaborating with data engineers, data architects, business analysts, and other stakeholders to ensure seamless data integration and alignment with overall data strategy.
+Experience in Optimizing data models for performance, scalability, and efficiency, considering factors such as data volume, query speed, and data retrieval patterns.
+Should have knowledge of data modelling best practices and standards. Collaborate with data governance teams to ensure compliance with data management policies and procedures.
+Well-versed with creating comprehensive documentation for data models, including data dictionaries, entity-relationship diagrams (ERDs), and data model descriptions.
+Exposure to data quality assessment to identify and rectify data anomalies, inconsistencies, and inaccuracies.
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 09
+
+
+Responsible for Data Profiling tasks, including Granularity checks, Datatypes, Nullability, Anomalies, etc.
+Designs and maintains Conceptual, Logical, and Physical data models, as well as source-to-target mapping sheets and DDL generation.
+Collaborates closely with business analysts, data architects, and other stakeholders to understand the data requirements and business rules.
+Enforces data model standards and adheres to standards across Snowflake.
+Maintains documentation for data models, database schemas, and changes over time.
+Implements and oversees version control for data models, tracking changes, and maintaining a history of modifications.
+Offers support to developers, analysts, and other team members as needed.
+Conducts Design Reviews with the Central team and incorporates suggested changes.
+
+
+
+
+Qualifications:
+
+
+Demonstrates proven experience as a Data Modeler.
+Familiarity with Manufacturing industry terminologies.
+Good to have: Possesses experience with data warehouse and ETL / Data engineering concepts.
+Demonstrates excellent collaboration and communication skills.
+Displays self-starting abilities with minimal guidance.
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 10
+
+
+
+
+Build dimensional data models applying best practices and providing business insights.
+Build data warehouse & data marts (on Cloud) while performing data profiling and quality analysis.
+Identify business needs and translate business requirements to Conceptual, Logical, Physical and semantic, multi-dimensional (star, snowflake), normalized/denormalized, Data Vault2.0 model for the project.
+Knowledge of snowflake and dbt is added advantage.
+Create and maintain the Source to Target Data Mapping document for this project. Includes documentation of all entities, attributes, data relationships, primary and foreign key structures, allowed values, codes, business rules, glossary terms, etc.
+Develop best practices for standard naming conventions and coding practices to ensure consistency of data models.
+Gather and Publish Data Dictionaries: Maintain data models and capture data models from existing databases and record descriptive information.
+Work with the Development team to implement data strategies, build data flows and develop conceptual data models.
+Create logical and physical data models using best practices to ensure high data quality and reduced redundancy.
+Optimize and update logical and physical data models to support new and existing projects.
+Data profiling, business domain modeling, logical data modeling, physical dimensional data modeling and design.
+Data design and performance optimization for large Data Warehouse solutions.
+understanding data - profile and analysis (metadata (formats, definitions, valid values, boundaries), relationship/usage)
+Create relational and dimensional structures for large (multi-terabyte) operational, analytical, warehouse and BI systems.
+Should be good in verbal and written communication.
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 11
+
+
+Extensive experience in building and implementing data models, data warehouses, and OLTP systems.
+
+
+Strong understanding of banking industry reference models like BIAN.
+
+
+Hands-on experience with multiple cloud data platforms (GCP/AWS).
+
+
+Expertise in data model architecture, considering security, scalability, maintainability, and performance.
+
+
+Ability to translate business needs into data models for long-term solutions.
+
+
+Proficiency in creating conceptual and logical data models based on business and functional requirements.
+
+
+Experience implementing physical data models for a variety of RDBMS and cloud-hosted databases.
+
+
+Deep knowledge of the banking (core banking) domain.
+
+
+Mastery in Visual Paradigm/Erwin data modeling tools.
+
+
+Excellent presentation skills and the ability to influence stakeholders.
+
+
+Experience in leading a team for data modeling work.
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 12
+
+
+
+
+Excellent analytical skills and commercial acumen
+Experience in ETL/ELT as well as Entity Relationship (ER) data modelling
+Understanding of slowly moving dimensional Datawarehouse (star schema, kimball dimensional data modelling)
+Good knowledge of SDLC and formal Agile processes as well as testing experience
+Can write SQL (NoDQL) and Python queries, Scala knowledge preferable and navigate data bases especially Hive, CMD, Putty, Note++
+Strong self-starter with strong change delivery skills who enjoys the challenge of delivering change within tight deadlines
+Strong verbal and written communication skills
+Ability to manage multiple priorities
+Knowledge of and experience using data models and data dictionaries in a Banking and Financial Markets context
+Preferable knowledge and experience in Data Quality & Governance
+Understanding of on-prem and Cloud Data Lakes as well as data warehouses architecture
+Enthusiastic and energetic problem solver to join an ambitious team
+Business analysis skills, defining and understanding requirements
+Attention to detail
+Ability to communicate effectively in a multi-programme environment across a range of stakeholders
+Knowledge of Hadoop of Google Big Query is a plus
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 13
+
+
+Min 10+ years of Total experience with minimum 5-6 years being Data Modeler or Data Architect.
+Experience in ERWIN, SQL Database Modeler or ER/Studio as modeling tool is required, with additional Model Mart management experience preferred.
+Experience in any one of data modeling tool preferably SQL DBM
+Experience designing Data Marts and Data Warehouses on Enterprise Scale.
+Experience in Snowflake Data Cloud.
+Knowledge in both OLTP and OLAP Modelling.
+Very good knowledge/experience in SQL
+Knowledge on Dimensional Modeling
+Key Responsibilites
+
+
+Designing and creating data models including Conceptual, Logical and Physical models, as per the requirements.
+Collaborate with Database administrator and Data Engineers to translate data models into physical database structures, ensuring optimal performance and data integrity.
+Define and enforce data models standard, naming conventions, and best practices to maintain data consistency and quality.
+Work with business users on the requirement and build data model designs with scalable solution.
+Demonstrated ability to understand, produce, and extend large and complex data models for operational and dimensional reporting data stores.
+Ability to effectively present complex technical information to non-technical audiences and to senior decision-makers.
+
+
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 14
+
+
+
+
+Ability to create Conceptual , Logical and Physical data models for New Subject areas related to health care
+Propose versatile solutions with the ability to understand and extend current Models with minimal supervision
+Solid Understanding and working knowledge of Healthcare Informatics specifically with HL7 FHIR (all levels)
+Previous Experience in translating various healthcare data and IG into Entity Relationship models
+Ability to solve unstructured big data problems and help team/s with peer review and triage processes
+Adhere and also recommend when needed to data governance and CI/CD best practices.
+Solid communication skills and analytical skills to communicate with product and project teams
+Technical Skill Sets :
+Strong Database knowledge and work experience in dealing with multi terabyte and high concurrent work loads
+2+ years of experience related to MPP and/or Columnar database platforms like Redshift , Azure , Snowflake etc
+4 years of experience with traditional OLTP database platforms like Postgres ,MS SQL server etc
+Previous experience in dealing with migration of high volume databases from traditional database platforms to modern columnar (MPP) platforms
+Exposure in working with multi tenant platforms
+Extensive experience in working with and advising data engineering teams related to high volume data ingestion and transformation pipelines
+
+
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 15
+
+
+
+
+Bachelor s degree in Computer Science, Information Systems, or a related field. A Master s degree is a plus.
+Proven experience as a Data Modeler or in a similar role, designing and implementing data models for enterprise-level applications.
+Strong understanding of data modeling concepts, principles, and methodologies, such as entity-relationship modeling, dimensional modeling, and data normalization.
+Proficiency in data modeling tools such as ERwin, PowerDesigner, or similar.
+In-depth knowledge of relational database management systems (RDBMS) and SQL.
+Familiarity with data integration concepts and tools, including ETL processes and data warehousing.
+Strong analytical and problem-solving skills with a keen attention to detail.
+Excellent communication and collaboration skills, with the ability to effectively interact with technical and non-technical stakeholders.
+Familiarity with data governance frameworks, data quality management, and data security concepts.
+Ability to work independently and manage multiple priorities in a fast-paced, dynamic environment.
+Ability to design and implement data tokenization/masking systems.
+Experience in developing secure API Gateways.
+Understanding of python API frameworks such as Flask or FastAPI.
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 16
+
+
+
+
+A Data Modeler is responsible for creating conceptual, logical, and physical data models that describe the relationships between different data elements and the data structures that support them
+The modeler should be proficient in data modeling techniques, database design, and data management
+The key responsibilities of a Data Modeler may include:
+
+
+Designing and developing conceptual, logical, and physical data models to support business requirements
+Creating and maintaining entity-relationship diagrams, data flow diagrams, and other visual representations of data models
+Ensuring that data models are consistent, complete, and accurate, and that they conform to established standards
+Developing data dictionaries and other metadata to describe data elements and their relationships
+Conducting data profiling and data analysis to identify data quality issues and to ensure that data models accurately represent the data
+A successful Data Modeler should have strong technical skills, including proficiency in data modeling techniques, database design, and data management
+They should have experience working with large and complex data sets and have knowledge of relational databases and SQL
+
+
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 17
+
+
+
+
+Strong interpersonal skills, including a positive, solution-oriented attitude
+Must be passionate, flexible and innovative in utilizing the tools, their experience, and any other resources, to effectively deliver to very challenging and always changing business requirements with continuous success.
+Validate the architecture and provide details and shared ownership for the architecture of our next generation data warehousing Big Data Systems, leading and working hands-on towards implementation and delivery to production
+Help lead the charge on a data lake/operational data store strategy, ensuring rapid delivery while taking responsibility for applying standards, principles, theories, and concepts
+Work with data architects on the logical data models and physical database designs optimized for performance, availability, and reliability
+Tuning and optimization of backend and frontend data operations
+Serve as a query tuning and optimization technical expert, providing feedback to team
+Proactively helps to resolve difficult technical issues
+Provide technical knowledge to teams during project discovery and architecture phases
+Assess new initiatives to determine the work effort and estimate the necessary time-to-completion
+Document new development, procedures or test plans as needed
+Participate in projects through various phases
+Performs other related duties as assigned
+Partner with the business units to develop effective solutions that solve business challenges
+
+
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 18
+
+
+
+
+Must have good experience in Data modeling with Data Vault 2.0 (conceptual, Logical, physical data modeling) using ER Studio.
+Good to have experience in Dimension Modeling.
+Good to have experience for Insurance Domain for Commercial Lines of Business: General Liability, Workers Comp, Business Owners, Crime, Cyber Risk, Professional Liability, Commercial Auto, and Commercial Property and Personal lines (Auto, Home PUP).
+Must have good experience with Erwin data models. Work with data architects on logical data models and physical database designs optimized for performance, availability, and reliability.
+I should have experience on Snowflake Database for a year or so.
+Insurance Domain for Commercial Lines of Business: General Liability, Workers Comp, Business Owners, Crime, Cyber Risk, Professional Liability, Commercial Auto, and Commercial Property and Personal lines (Auto, Home PUP).
+Review comprehensiveness of attribution for the Insurance data model.
+Good to have knowledge of Data Science and other BI/operational Insurance use cases.
+Should be able to define different roles for access and maintain .
+Must be able to define the use cases and tie it to the data layers.
+Define the test scenarios and guide testers to write scenarios and test cases
+Identify and communicate solution options across multiple lines of business.
+Ability to work in a fast-paced, team-oriented environment
+Ability to work with end-users to gather requirements and convert them to working documents
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 19
+
+
+Very Good knowledge of Dimensional/Relational Data Modeling.
+4 8+ years of Data Modeling experience working in large databases.
+Exposure in Talend is must.
+Strong experience in RDBMS Concepts, Data Analysis and SQL.
+Should be technically strong in relational databases and able to provide design approaches.
+Prior experience in working in a large Enterprise Data Warehouse is expected.
+Exposure to Business Intelligence reporting tools, Power BI, Tableau etc.
+Strong understanding of ETL platforms for Data Mapping and transformation.
+Ability to coordinate and explain with business users to get the requirements.
+Knowledge of Insurance industry domain, especially Policy Admin and Claims would be an added advantage.
+Knowledge of Guidewire platform for Property Casualty (PC) industry will be a great plus.
+Experience of working in projects involving multiple time zones and onsite-offshore models and with multiple vendors.
+Excellent written and verbal communication skills.
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 20
+
+
+
+
+esign and develop robust data models to support business requirements, ensuring consistency, quality, and accuracy.
+Utilize DRB methodologies to create and maintain comprehensive data resource books.
+Collaborate with business analysts and stakeholders to gather and interpret requirements, translating them into effective data models.
+Develop and optimize database schemas, ensuring efficient data storage and retrieval.
+Support ETL processes and data integration initiatives, ensuring data consistency and integrity across systems.
+Implement data warehousing solutions, supporting reporting and analytics needs.
+Ensure compliance with data governance policies and standards.
+Conduct data profiling and analysis to identify and resolve data quality issues.
+Provide guidance and mentorship to junior data modelers and data engineers.
+Stay updated with industry trends and advancements in data modelling and database technologies.
+
+
+
+
+Requirements
+Bachelors degree in Computer Science, Information Technology, or a related field; Masters degree preferred.
+15+ years of experience in data modelling, database design, and data management.
+Strong experience with DRB methodologies and tools.
+Proficiency in SQL and data modelling tools such as Erwin or IBM InfoSphere Data Architect.
+Solid understanding of data warehousing concepts and ETL processes.
+Excellent analytical and problem-solving skills.
+Strong communication and interpersonal skills.
+Ability to work effectively in a team-oriented, collaborative environment.
+Familiarity with Big Data technologies is a plus.
+
+
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 21
+
+
+
+
+Data Governance Knowledge: Understanding of data governance principles, policies, and best practices, with a focus on data retention strategies and compliance requirements.
+
+
+● Data Retention Policies and Practices: Expertise in developing, implementing, and managing data retention policies and schedules, ensuring alignment with legal,regulatory, and business requirements.
+● Data Analysis Skills: Proficiency in analysing data quality, integrity, and relevance, identifying redundant or obsolete data, and making recommendations for retention or disposal based on analysis.
+● Technical Proficiency: Knowledge of database systems, data storage technologies, and data management tools, including data archival, backup, deletion, migration, and transformation processes.
+● Documentation and Reporting: Ability to document data retention policies, procedures, and decisions effectively, and generate reports and metrics to track compliance and performance.
+● Communication Skills: Strong verbal and written communication skills for engaging with stakeholders, explaining data retention requirements, addressing concerns, and providing guidance on compliance.
+● Stakeholder Management: Experience in identifying and managing key stakeholders, building positive relationships, and effectively communicating with diverse groups across the organization Must Have:
+● Bachelor's/University degree, Master's degree preferred in Computer Science, Software Engineering, Data / Information Management
+● 6-9 years of experience
+● Experience with one of the tools Unity catalog, Collibra, Atlan, Alation
+● Experience in a Data Governance/ Data Management/Data Security
+● Working knowledge of Data Operating Model practices, Data Policies / Standards / Procedures, Data Governance / Management, Data Compliance, Data Risk and Controls, Data Security
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 22
+
+
+- Design and develop database models for various applications and systems
+- Collaborate with cross-functional teams to gather requirements and understand data needs
+- Analyze and evaluate existing data models for optimization and improvement
+- Implement best practices for data modeling, ensuring data integrity and performance
+- Create and maintain documentation of data models, including entity-relationship diagrams (ERDs)
+- Collaborate with database administrators to ensure efficient implementation and maintenance of data models
+- Stay up-to-date with industry trends and advancements in data modeling techniques
+- Strong experience in database design and data modeling concepts.
+-Hands on with ERWIN, Power designer or ER Studio.
+- Proficiency in SQL and database management systems (e.g., Oracle, MySQL, SQL Server)
+- Knowledge of big data technologies and platforms (e.g., Hadoop, Spark) is a plus
+- Familiarity with data analytics tools and techniques
+- Excellent problem-solving skills with the ability to analyze complex data requirements
+- Strong attention to detail and ability to work in a fast-paced environment
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 23
+
+
+At least 8 years Logical Data Modelling and Physical data modelling skills. Experience of Financial Services and specifically within data domains / functions (e.g. Data Management, Data Architecture, Data Governance)
+Demonstrable knowledge of Data Management tools and techniques. Good working knowledge of relevant tools e.g. Data Architect like CA Erwin Data Modeler , ER Studio at least more than 5 years
+Experience of eliciting, documenting and verifying requirements for the use of data across the organisation (Global Businesses and Global Functions) as appropriate to project scope
+Experience of working within a large, complex and geographically dispersed projects (including across time zones)
+Previous experience as a data analyst, solutions analyst or architect including delivery of data artefacts e.g. data models, data flow diagrams & metadata would be beneficial
+Proven strength in conceptual and logical thinking, ability to abstract information and look at the bigger picture.
+Proven analysis skills with the ability to challenge designs / decisions. Experience in managing and resolving complex issues using proven analytical and problem-solving skills
+Ability to quickly get up to speed with the current data landscape and apply acquired analysis and data skills to new contexts and approaches
+Building relationships and networking, with high levels of motivation and collaboration
+Strong leadership and an ability to articulate, present and obtain approval for solutions at the right level for a wide audience (IT and Business)
+Strong planning, organisation and time management skills with a demonstrated ability to work to deadlines
+Commercial acumen and ability to apply this to Business and IT data requirements
+A track record of consistently looking for ways to do things better and a good understanding of the mechanism necessary to successfully implement change
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 24
+
+
+
+
+Create conceptual, logical, and physical data models for cloud-based data systems.
+Work with data engineers to integrate data from various sources into cloud data warehouses or data lakes.
+Optimize data models for performance, scalability, and cost-efficiency.
+Collaborate with stakeholders to understand business requirements and translate them into data models.
+Document data models, data flows, and data mapping.
+Ensure data accuracy, consistency, and integrity within the data models.
+Ensure data models comply with data governance policies and industry regulations
+Required
+2+ years hands-on experience in Data Modelling, DBA or similar roles required.
+Experience with data warehousing, data lake, OLAP, and OLTP best practices with relational and dimensional data design techniques.
+Hands-on SQL, the creation of Business tables/views and Join indexes, stored procedures, Data Analysis, and Debugging data issues.
+Tools and Technology: SQL, No-SQL, RDS, Star and Snowflake schema
+Expertise in data modeling tools and platforms.
+Expertise in data modelling tools such as ERWIN, ER/Studio, DBDesigner, Draw.IO etc…
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 25
+
+
+Educational Background: Bachelor’s or Master’s degree in Computer Science, Information Technology, or a related field.
+Experience: At least 7-10 years of experience in data modeling and allied data areas, with a minimum of 2 years in a leadership role.
+Skills:
+
+
+Technical Skills: Proficiency in data modeling tools (e.g., Erwin), SQL, and big data - database management systems. Understanding of Big Data Platforms landscape. Basic Data Engineering skills is a plus.
+Analytical Skills: Strong analytical and problem-solving skills.
+Communication Skills: Excellent verbal and written communication skills, with the ability to convey complex data concepts to non-technical stakeholders.
+Project Management: Experience in managing data modeling projects and leading cross-functional teams.
+Attention to Detail: High level of accuracy and attention to detail in data modeling and documentation.
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 26
+
+
+
+
+Bachelor’s degree in Engineering, Mathematics, Economics, Computer Science, or related disciplines
+Overall 5+ years of e xperience with at least 3 years of work on end-to-end analytical modelling projects : problem scoping, data gathering, modelling, insights, visualizations, monitoring and maintenance
+Demonstrated ability to build constructive working relationships with various technology partners, stakeholders and other internal/ external users
+Strong e xperience with data automation and Machine Learning
+Strong written and verbal communication skills in English
+Experience using SQL, complex Excel, Pyspark and Python .
+Preferred Requirements:
+Master’s degree, preferably in economics, engineering, or similar field.
+Good e xperience working as an analyst in the commodity space is preferred
+Experience building high quality solutions and leading processes in an Agile development environment
+Experience building data science solutions in Databricks .
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 27
+
+
+Extensive practical experience in Information Technology and software development projects of with at least 8+ years of experience in designing Operational data store & data warehouse.
+Extensive experience in any of Data Modelling tools – Erwin/ SAP power designer.
+Strong understanding of ETL and data warehouse concepts processes and best practices.
+Proficient in Data Modelling including conceptual, logical and physical data modelling for both OLTP and OLAP.
+Ability to write complex SQL for data transformations and data profiling in source and target systems
+Basic understanding of SQL vs NoSQL databases.
+Possess a combination of solid business knowledge and technical expertise with strong communication skills. Demonstrate excellent analytical and logical thinking.
+Good verbal & written communication skills and Ability to work independently as well as in a team environment providing structure in ambiguous situation.
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 28
+
+
+
+
+Must have good experience in Data modeling with Data Vault 2.0 (conceptual, Logical, physical data modeling) using ER Studio.
+Good to have experience in Dimension Modeling.
+Good to have experience for Insurance Domain for Commercial Lines of Business: General Liability, Workers Comp, Business Owners, Crime, Cyber Risk, Professional Liability, Commercial Auto, and Commercial Property and Personal lines (Auto, Home & PUP).
+Must have good experience with Erwin data models. Work with data architects on logical data models and physical database designs optimized for performance, availability, and reliability.
+I should have experience on Snowflake Database for a year or so.
+Insurance Domain for Commercial Lines of Business: General Liability, Workers Comp, Business Owners, Crime, Cyber Risk, Professional Liability, Commercial Auto, and Commercial Property and Personal lines (Auto, Home & PUP).
+Review comprehensiveness of attribution for the Insurance data model.
+Good to have knowledge of Data Science and other BI/operational Insurance use cases.
+Should be able to define different roles for access and maintain.
+Must be able to define the use cases and tie it to the data layers.
+Define the test scenarios and guide testers to write scenarios and test cases
+Identify and communicate solution options across multiple lines of business.
+Ability to work in a fast-paced, team-oriented environment
+Ability to work with end-users to gather requirements and convert them to working documents
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 29
+
+
+
+
+Erwin Data Modelling: Design, create, and maintain data models using Erwin.
+Data Quality & Data Catalog: Ensure data accuracy, consistency, and integrity. Maintain and manage data catalogs effectively.
+Data Lineage: Document and maintain data lineage to ensure transparency and traceability of data sources and transformations.
+OLTP & OLAP Systems: Develop and optimize data models tailored for both transactional (OLTP) and analytical (OLAP) systems.
+Big Data Architecture: Work on data modelling in data warehouse environments and big data architectures.
+ANSI SQL: Write, optimize, and troubleshoot complex SQL queries.
+Data Visualization: Collaborate with teams to create data visualizations that provide insights and support decision-making.
+Data Analysis: Analyze complex datasets to identify trends, patterns, and insights.
+Data Cataloging & Access Policy: Manage data cataloging tools and enforce data access policies.
+Desired Skills & Experience:
+
+
+Erwin Data Modelling: Advanced knowledge and practical experience.
+Data Quality: Experience in ensuring high standards of data quality.
+Data Lineage: Strong understanding and ability to map data flows.
+OLTP & OLAP: Proficient in designing and implementing models for both systems.
+Big Data: Experience with data warehousing and big data tools and environments.
+SQL: Expert-level proficiency in ANSI SQL.
+Data Visualization Tools: Familiarity with tools like Tableau, Power BI, or similar.
+Data Analysis: Proven experience in data analysis and interpretation.
+Data Cataloging: Knowledge of tools like Alation, Collibra, or similar.
+
+
+
+
+—------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Job Description 30
+
+
+
+
+Create conceptual, logical, and physical data models for cloud-based data systems.
+Work with data engineers to integrate data from various sources into cloud data warehouses or data lakes.
+Optimise data models for performance, scalability, and cost-efficiency.
+Collaborate with stakeholders to understand business requirements and translate them into data models.
+Document data models, data flows, and data mapping.
+Ensure data accuracy, consistency, and integrity within the data models.
+Ensure data models comply with data governance policies and industry regulations
+Skills and Qualifications
+
+
+Required
+
+
+2+ years hands-on experience in Data Modelling, DBA or similar roles required.
+Experience with data warehousing, data lake, OLAP, and OLTP best practices with relational and dimensional data design techniques.
+Hands-on SQL, the creation of Business tables/views and Join indexes, stored procedures, Data Analysis, and Debugging data issues.
+Tools and Technology: SQL, No-SQL, RDS, Star and Snowflake schema
+Expertise in data modeling tools and platforms.
+Expertise in data modelling tools such as ERWIN, ER/Studio, DBDesigner, Draw.IO etc…
